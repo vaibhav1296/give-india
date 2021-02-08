@@ -23,7 +23,7 @@ This will add an account in database and will send back a response like this
 }
 ```
 
-When you will hit **_/transaction_** :money*mouth_face: route with \_POST* method and below body then it will create a transaction between two accounts
+When you will hit **_/transaction_** route with _POST_ method and below body then it will create a transaction between two accounts :money_mouth_face:
 
 ```
 {
